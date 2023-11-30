@@ -23,3 +23,8 @@ Among them, Few API's have transaction logics such as,
   ``` npm i ```
 - Give following command to run :
    ```npm start ```
+
+![1](https://github.com/Katha-Sikdar/Transaction-Api-with-postman/assets/82141562/d5536c85-bdbb-48b3-ab33-00945353d0ec)
+![3](https://github.com/Katha-Sikdar/Transaction-Api-with-postman/assets/82141562/4ee8b1ad-721c-4262-8f87-13982482fb41)
+
+
